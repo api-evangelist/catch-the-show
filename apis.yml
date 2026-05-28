@@ -1,0 +1,32 @@
+aid: catch-the-show
+name: Catch The Show
+description: "REST API for next-episode.net"
+url: https://catchtheshow.herokuapp.com/api/documentation
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Video"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Video
+  - Public APIs
+apis:
+  - name: Catch The Show
+    description: "REST API for next-episode.net"
+    humanURL: https://catchtheshow.herokuapp.com/api/documentation
+    baseURL: https://catchtheshow.herokuapp.com/api/documentation
+    tags:
+      - Video
+    properties:
+      - type: Documentation
+        url: https://catchtheshow.herokuapp.com/api/documentation
+common:
+  - type: Website
+    url: https://catchtheshow.herokuapp.com/api/documentation
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
