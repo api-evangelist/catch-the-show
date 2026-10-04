@@ -39,7 +39,6 @@ apis:
   - name: Catch The Show
     description: "REST API for next-episode.net"
     humanURL: https://catchtheshow.herokuapp.com/api/documentation
-    baseURL: https://catchtheshow.herokuapp.com/api/documentation
     tags:
       - Video
     properties:
